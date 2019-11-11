@@ -5,7 +5,7 @@ import './App.scss';
 const App = () => {
 
   const [search, setSearch] = useState(''); 
-  const [animals, setAnimals] = useState('cats');
+  const [animals, setAnimals] = useState('dogs');
   const [pictures, setPictures] = useState([]);
 
   const apiKey = '6b3575d10435de5f010fc941f5eff94a';
