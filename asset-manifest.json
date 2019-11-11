@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/animals-search/static/css/main.39fae60d.chunk.css",
+    "main.js": "/animals-search/static/js/main.64479b7e.chunk.js",
+    "main.js.map": "/animals-search/static/js/main.64479b7e.chunk.js.map",
+    "runtime-main.js": "/animals-search/static/js/runtime-main.cf46fc03.js",
+    "runtime-main.js.map": "/animals-search/static/js/runtime-main.cf46fc03.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/animals-search/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.4a8700b4.chunk.js": "/animals-search/static/js/2.4a8700b4.chunk.js",
+    "static/js/2.4a8700b4.chunk.js.map": "/animals-search/static/js/2.4a8700b4.chunk.js.map",
+    "index.html": "/animals-search/index.html",
+    "precache-manifest.755888e3657f69633105d43ff69359ae.js": "/animals-search/precache-manifest.755888e3657f69633105d43ff69359ae.js",
+    "service-worker.js": "/animals-search/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/animals-search/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.39fae60d.chunk.css.map": "/animals-search/static/css/main.39fae60d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf46fc03.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.4a8700b4.chunk.js",
+    "static/css/main.39fae60d.chunk.css",
+    "static/js/main.64479b7e.chunk.js"
+  ]
+}
